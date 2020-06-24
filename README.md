@@ -3,7 +3,7 @@
 
 # Videos
 
-https://youtu.be/QCMANOVsqPo
+[link to video1](https://youtu.be/QCMANOVsqPo)
 
 # How to install
 
