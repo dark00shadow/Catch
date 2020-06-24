@@ -7,11 +7,11 @@
 
 # Videos
 
-making the game vidoes:
+making the game, videos:
 
 [link to video: 1](https://youtu.be/QCMANOVsqPo)
 
-showing the game vidoes:
+showing the game, videos:
 
 [link to video: 1](https://youtu.be/HTk5NZ2IVPw)
 
