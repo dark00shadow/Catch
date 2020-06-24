@@ -1,6 +1,10 @@
 # Catch
  a game made with python
 
+# Images
+
+![Image 1](image1.png)
+
 # Videos
 
 [link to video1](https://youtu.be/QCMANOVsqPo)
