@@ -7,9 +7,15 @@ https://youtu.be/QCMANOVsqPo
 
 # How to install
 
-1) click the clone button(or download) in github
+1) make sure you got python(python 3)
 
-2) wait for download then extract zip file(if your on differnt operating systems it might not be a zip file)
+2) click the clone button then click download zip file in github
+
+3) wait for download then extract zip file
+
+4) open the command line you use for installing librarys(open it inside the folder that has `requirements.txt`
+
+5) then write in the command line this `pip3 install -r requirements.txt`
 
 # How to play
 
@@ -26,3 +32,7 @@ right = D
 Pause:
 
 pause = Space
+
+# Note
+
+if i say zip file i could be wrong becuase if your on differnt operating systems it might not be a zip file
