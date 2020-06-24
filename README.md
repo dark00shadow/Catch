@@ -7,7 +7,14 @@
 
 # Videos
 
-[link to video1](https://youtu.be/QCMANOVsqPo)
+making the game vidoes:
+
+[link to video: 1](https://youtu.be/QCMANOVsqPo)
+
+showing the game vidoes:
+
+[link to video: 1](https://youtu.be/HTk5NZ2IVPw)
+
 
 # How to install
 
